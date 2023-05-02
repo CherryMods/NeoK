@@ -1,3 +1,11 @@
+# DON'T USE THIS VERSION!
+I decided to start over AGAIN, because apparently I still had no idea how to use Git when I started NeoK.
+Go check out [Tea-Client](https://github.com/CherryMods/Tea-Client) for the third revision of K-Client.
+
+The old readme content starts below this line:
+
+---
+
 # NeoK (New K-Client) for 1.17+
 
 ## ⚠ IMPORTANT ⚠
